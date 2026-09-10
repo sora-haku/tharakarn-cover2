@@ -1,0 +1,25 @@
+{
+  "name": "ธารากานท์ - ทำปกนิยาย",
+  "short_name": "ธารากานท์",
+  "description": "แอปทำหน้าปกนิยาย 90+ เทมเพลต ฟอนต์ 40 แบบ ขอบ+เงา - ของกอล์ฟ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F1E8",
+  "theme_color": "#2B579A",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/2B579A/FFFFFF?text=ธ",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/2B579A/FFFFFF?text=ธ",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
